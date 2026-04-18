@@ -4,7 +4,8 @@ numpy==1.26.4
 pandas==2.2.2
 scikit-learn==1.4.2
 joblib
-pymatgen==2023.8.10
+pymatgen==2023.5.10
+spglib
 shap==0.44.1
 python-dotenv
 gunicorn
